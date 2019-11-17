@@ -10,6 +10,7 @@ header{
     margin: 0;
     padding:0;
     display:-webkit-flex;
+    display: flex;
 
 }
 #header-container{
@@ -71,8 +72,10 @@ main{
     padding-top: 15px;
 }
 .explanation{
-    display: flex;
+   
     width:80%;
+    
+
 }
 .explanation-text {
 
