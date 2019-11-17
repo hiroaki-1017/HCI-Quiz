@@ -95,3 +95,9 @@ main{
     box-sizing: border-box;
     padding:auto;
 }
+
+
+
+.false{
+    display: none;
+}
