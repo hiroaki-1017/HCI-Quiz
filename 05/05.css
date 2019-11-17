@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+header{
+    height:90px;
+}
+#header-container{
+    height: 90px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    background-color: white;
+
+}
+#header-text{
+   height: 90px;
+   width: 100%;
+   border-bottom: solid 1px;
+
+}
+#header-text p{
+    position: relative;
+    padding-top: 22px;
+    font-size: 25px;
+    font-family:fantasy;
+    color: #707070;
+}
+main{
+    margin: 0 auto;
+}
+.menu-container{
+    height: 530px;
+    width: 20%;
+    display: inline-block;
+    
+}
+.menu{
+    height: 30px;
+    margin: 0 auto;
+    border: solid 1px;
+    border-top:none;
+}
+.menu p{
+    margin: auto;
+    text-align: center;
+    color: #707070;
+    font-size: 15px;
+    font-family:"游ゴシック Medium","Yu Gothic Medium","游ゴシック体",YuGothic,sans-serif;
+    padding-top: 3px;
+}
+.box{
+    height: 50px;
+    border: solid 1px;
+    border-top: none;
+}
+.box p{
+    text-align: center;
+    color: #707070;
+    font-size: 15px;
+    font-family:"游ゴシック Medium","Yu Gothic Medium","游ゴシック体",YuGothic,sans-serif;
+    padding-top: 15px;
+}
+.explanation{
+    display: inline-block;
+    position: relative;
+    top:-250px;
+    left: 170px;
+}
+.explanation-text {
+
+}
+.explanation-text p{
+    color: #707070;
+    font-size: 25px;
+    font-family:fantasy;
+    font-weight: 600;
+}
+
