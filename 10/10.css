@@ -82,4 +82,15 @@ main{
     font-family:fantasy;
     font-weight: 600;
 }
-
+.q-answer{
+    display: -webkit-flex;
+    display:flex;
+}
+.s01-choice{
+    width: 80%;
+    box-sizing: border-box;
+}
+.s01-answer{
+    width: 20%;
+    box-sizing: border-box;
+}
