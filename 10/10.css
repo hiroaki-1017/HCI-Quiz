@@ -101,4 +101,9 @@ main{
     width: 100px;
     background-image:url("https://github.com/vivaruckk17/HCI-Quiz/commit/ca0385f4cfe92680b5425314a98302dc509afed8#diff-23009446f69b22d427bf10851b9488da");
 }
+.correctFalse{
+     height: 30px;
+     width: 30px;
+}
+
 
