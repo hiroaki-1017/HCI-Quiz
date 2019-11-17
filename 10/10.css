@@ -28,11 +28,12 @@ header{
 }
 main{
     margin: 0 auto;
+    display: flex;
 }
 .menu-container{
     height: 530px;
     width: 20%;
-    display: inline-block;
+    display: flex;
     
 }
 .menu{
@@ -62,10 +63,8 @@ main{
     padding-top: 15px;
 }
 .explanation{
-    display: inline-block;
-    position: relative;
-    top:-250px;
-    left: 170px;
+    display: flex;
+    width:80%;
 }
 .explanation-text {
 
