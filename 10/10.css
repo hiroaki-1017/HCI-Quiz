@@ -8,6 +8,7 @@ header{
 .container{
     display: flex;
     display: -webkit-flex;
+    margin: 0;
 
 }
 #header-container{
