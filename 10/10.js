@@ -3,7 +3,7 @@ function answerY(){
     var img = document.getElementById("answer");
     img.src="../img/yes.png";
 
-    document.getElementById("changeTextColorr").style.color = ("#29FF00");
+    document.getElementById("changeTextColor").style.color = ("#29FF00");
 
 }
 
