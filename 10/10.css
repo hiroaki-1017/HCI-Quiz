@@ -4,13 +4,10 @@ body{
 }
 header{
     height:90px;
+    background-color: white;
 }
 .container{
-  
-    margin: 0;
-    padding:0;
-    display:-webkit-flex;
-    display: flex;
+
 
 }
 #header-container{
@@ -85,5 +82,27 @@ main{
     font-size: 25px;
     font-family:fantasy;
     font-weight: 600;
+}
+.q-answer{
+    display: -webkit-flex;
+    display:flex;
+}
+.s01-choice{
+    width: 80%;
+    box-sizing: border-box;
+}
+.s01-answer{
+    width: 20%;
+    box-sizing: border-box;
+    padding:10px 0 0 0;
+}
+.con{
+    border: solid 1px;
+    color: #707070;
+}
+.correct{
+    height: 100px;
+    width: 100px;
+    background-image:url("https://github.com/vivaruckk17/HCI-Quiz/commit/ca0385f4cfe92680b5425314a98302dc509afed8#diff-23009446f69b22d427bf10851b9488da");
 }
 
