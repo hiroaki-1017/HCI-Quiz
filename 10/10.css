@@ -93,11 +93,8 @@ main{
 .s01-answer{
     width: 20%;
     box-sizing: border-box;
-    padding:auto;
+    padding:10px 0 0 0;
 }
 
 
 
-.false{
-    display: none;
-}
