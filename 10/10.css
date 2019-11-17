@@ -93,4 +93,5 @@ main{
 .s01-answer{
     width: 20%;
     box-sizing: border-box;
+    padding:auto;
 }
