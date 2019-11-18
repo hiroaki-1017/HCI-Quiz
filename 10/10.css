@@ -26,6 +26,7 @@ body{
     height:90px;
     background-color: white;
     z-index: 10;
+    position: fixed;
 }
 #header-container{
     height: 90px;
