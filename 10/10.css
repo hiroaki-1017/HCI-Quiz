@@ -94,6 +94,9 @@ main{
 }
 .con{
     border-width: 0 1px 0 1px;
-    border: double #999999;
     color: #707070;   
+}
+.sentence p{
+    font-size: 15px;
+       
 }
