@@ -72,7 +72,7 @@ main{
 
 }
 .explanation-text {
-
+    border-bottom: solid 1px;
 }
 .explanation-text p{
     color: #413838;
@@ -111,7 +111,7 @@ main{
 }
 .q-sentence01{
     padding-top:50px;
-    border-bottom: solid 1px;
+    border-bottom: solid 1px #707070 ;
 }
 #answer{
     padding-top: 30px;
