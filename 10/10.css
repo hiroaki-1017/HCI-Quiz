@@ -82,10 +82,14 @@ main{
 .q-answer{
     display: -webkit-flex;
     display:flex;
+    cursor: pointer;
 }
+
 .s01-choice{
     width: 80%;
     box-sizing: border-box;
+    padding-top:20px;
+    
 }
 .s01-choice p{
     font-size: 15px;
