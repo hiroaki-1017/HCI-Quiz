@@ -176,3 +176,55 @@ main{
 .blank{
     font-weight: 600;
 }
+.question-num01:hover{
+    background-color: rgba(020, 020, 020, 0.05);
+}
+
+
+/*q-answerにborder bottom が適応されていて最後に下線がかぶるからか下線消してあげる*/
+.end-answer{
+    border-bottom:none;
+}
+
+.blank{
+    font-weight: 600;
+}
+.question-num01:hover{
+    background-color: rgba(020, 020, 020, 0.05);
+}
+
+
+/*q-answerにborder bottom が適応されていて最後に下線がかぶるからか下線消してあげる*/
+.end-answer{
+    border-bottom:none;
+}
+
+.blank{
+    font-weight: 600;
+}
+.question-num01:hover{
+    background-color: rgba(020, 020, 020, 0.05);
+}
+
+
+/*q-answerにborder bottom が適応されていて最後に下線がかぶるからか下線消してあげる*/
+.end-answer{
+    border-bottom:none;
+}
+
+.blank{
+    font-weight: 600;
+}}
+.question-num01:hover{
+    background-color: rgba(020, 020, 020, 0.05);
+}
+
+
+/*q-answerにborder bottom が適応されていて最後に下線がかぶるからか下線消してあげる*/
+.end-answer{
+    border-bottom:none;
+}
+
+.blank{
+    font-weight: 600;
+}
