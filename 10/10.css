@@ -93,10 +93,6 @@ main{
     padding:10px 0 0 0;
 }
 .con{
-    border: solid 1px;
-    color: #707070;
-    border-top : none;
-    
+    border: solid 0 1px 0 1px;
+    color: #707070;   
 }
-
-
