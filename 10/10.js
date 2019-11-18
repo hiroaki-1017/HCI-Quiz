@@ -8,8 +8,7 @@ function answerY(){
 
 function answerN(){
 
-    var img = document.getElementById("answer");
-    img.src="../img/no.png";
+    document.getElementById("answer").innerHTML = '<img src="../img/no.png" alt="不正解">';
 
     document.getElementById("changeTextColor").style.color = ("#29FF00");
 
