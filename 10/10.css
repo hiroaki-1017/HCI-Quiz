@@ -19,6 +19,7 @@ img{
 body{
     margin: 0;
     text-align: center;
+    
 }
 /*header*/
 header{
@@ -128,6 +129,7 @@ main{
     border-right: solid 1px;
     color: #707070;   
     padding: 0 30px 0 30px;
+    background-color: rgba(020, 020, 020, 0.01);
 }
 .sentence p{
     font-size: 20px;
@@ -148,4 +150,10 @@ main{
 }
 .question-num01:hover{
     background-color: rgba(020, 020, 020, 0.05);
+}
+
+
+/*q-answerにborder bottom が適応されていて最後に下線がかぶるからか下線消してあげる*/
+.end-answer{
+    border-bottom:none;
 }
