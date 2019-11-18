@@ -1,6 +1,6 @@
 function answerY(){
  
-    var img = document.getElementByClassName("answer");
+    var img = document.getElementsByClassName("answer");
     img.src="../img/yes.png";
 
     document.getElementsByClassName("changeTextColor").style.color = ("#29FF00");
