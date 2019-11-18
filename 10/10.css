@@ -4,6 +4,7 @@
 /*imageのサイズ*/
 /*　　　imageは解答した時に日表示される○と×　　　*/
 img{
+    margin: 4px;
     width: 100px;
     height: 100px;
 }
