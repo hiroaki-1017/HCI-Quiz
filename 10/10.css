@@ -1,7 +1,19 @@
+/*コメント  */
+/*選択肢の設定*/
+
+
+
+
+
+
+
+
+
 body{
     margin: 0;
     text-align: center;
 }
+/*header*/
 header{
     height:90px;
     background-color: white;
@@ -28,6 +40,9 @@ header{
     font-family:fantasy;
     color: #707070;
 }
+
+
+/*こっからmain*/
 main{
     margin: 0 auto;
    
@@ -127,3 +142,6 @@ main{
 .question-num01:hover{
     background-color: rgba(020, 020, 020, 0.05);
 }
+
+
+.end-answer
