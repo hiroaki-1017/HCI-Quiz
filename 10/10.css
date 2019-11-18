@@ -93,10 +93,11 @@ main{
     padding:10px 0 0 0;
 }
 .con{
-    border-width: 0 1px 0 1px;
+    border-left: solid 1px;
+    border-right: solid 1px;
     color: #707070;   
 }
 .sentence p{
     font-size: 15px;
-       
+
 }
