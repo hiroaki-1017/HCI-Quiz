@@ -93,6 +93,7 @@ main{
     padding:10px 0 0 0;
 }
 .con{
-    border: solid 0 1px 0 1px;
+    border-width: 0 1px 0 1px;
+    border: double #999999;
     color: #707070;   
 }
