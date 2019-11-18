@@ -74,7 +74,7 @@ main{
 
 }
 .explanation-text p{
-    color: #707070;
+    color: #413838;
     font-size: 25px;
     font-family:fantasy;
     font-weight: 600;
@@ -95,6 +95,7 @@ main{
 .con{
     border: solid 1px;
     color: #707070;
+    border-top : none;
 }
 .correct{
     height: 100px;
