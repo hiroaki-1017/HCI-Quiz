@@ -87,6 +87,9 @@ main{
     width: 80%;
     box-sizing: border-box;
 }
+.s01-choice p{
+    font-size: 15px;
+}
 .s01-answer{
     width: 20%;
     box-sizing: border-box;
@@ -98,9 +101,10 @@ main{
     color: #707070;   
 }
 .sentence p{
-    font-size: 15px;
+    font-size: 20px;
 
 }
 .q-sentence01{
     padding-top:50px;
+    border-bottom: solid 1px;
 }
