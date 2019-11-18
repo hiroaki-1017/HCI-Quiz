@@ -1,18 +1,18 @@
 function answerY(){
  
-    var img = document.getElementsByClassName('answer');
+    var img = doccument.getElementsByClassName('answer');
     img.src="../img/yes.png";
 
-    document.getElementsByClassName('changeTextColor').style.color = ("#29FF00");
+    doccument.getElementsByClassName('changeTextColor').style.color = ("#29FF00");
 
 }
 
 function answerN(){
 
-    var img = document.getElementsByClassName('eanswr');
+    var img = doccument.getElementsByClassName('eanswr');
     img.src="../img/no.png";
 
-    document.getElementsByClassName('changeTextColor').style.color = ("#29FF00");
+    doccument.getElementsByClassName('changeTextColor').style.color = ("#29FF00");
 
 }
 
