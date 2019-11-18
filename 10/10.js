@@ -1,3 +1,5 @@
+
+
 function answerY01_1(){
  
     document.getElementById("answer01_1").innerHTML = '<img src="../img/yes.png" alt="正解">';
