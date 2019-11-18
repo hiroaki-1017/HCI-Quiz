@@ -130,7 +130,7 @@ main{
     padding-top:50px;
     border-bottom: solid 1px #707070 ;
 }
-#answer{
+.answer{
     padding-top: 30px;
 }
 .question-num01{
@@ -142,7 +142,3 @@ main{
 .question-num01:hover{
     background-color: rgba(020, 020, 020, 0.05);
 }
-
-
-
-

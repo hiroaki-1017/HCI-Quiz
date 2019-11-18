@@ -9,7 +9,7 @@ function answerY(){
 
 function answerN(){
 
-    var img = doccument.getElementsByClassName('eanswr');
+    var img = doccument.getElementsByClassName('answer');
     img.src="../img/no.png";
 
     doccument.getElementsByClassName('changeTextColor').style.color = ("#29FF00");
