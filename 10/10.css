@@ -115,3 +115,10 @@ main{
 #answer{
     padding-top: 20px;
 }
+.question-num01{
+    cursor: pointer;
+
+}
+.question-num01:hover{
+    background-color: rgba(040, 040, 040, 0.5);
+}
