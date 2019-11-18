@@ -22,7 +22,7 @@ body{
     
 }
 /*header*/
-header{
+.navbar{
     height:90px;
     background-color: white;
     z-index: 10;
