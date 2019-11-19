@@ -776,7 +776,7 @@ function answerN06_3(){
 //07-1
 function answerY07_1(){
  
-    document.getElementById("answer07_1").innerHTML = '<img src="../img/yes.png" alt="正解">';
+    document.getElementById("answer07_1").innerHTML = '<img src="../img/yes.png" alt="正解">'; // ここがなんか動いてないっぽい
 
     document.getElementById("changeTextColor07_1").style.color = ("#29FF00");
 
