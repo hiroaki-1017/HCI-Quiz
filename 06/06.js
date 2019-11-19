@@ -1375,7 +1375,7 @@ function answerY11_1(){
  
     document.getElementById("answer11_1").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor01_2").style.color = ("#29FF00");
+    document.getElementById("changeTextColor11_1").style.color = ("#29FF00");
 
 }
 
@@ -1394,7 +1394,7 @@ function answerY11_2(){
  
     document.getElementById("answer11_2").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor01_2").style.color = ("#29FF00");
+    document.getElementById("changeTextColor11_2").style.color = ("#29FF00");
 
 }
 
@@ -1432,7 +1432,7 @@ function answerY11_4(){
  
     document.getElementById("answer11_4").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor01_4").style.color = ("#29FF00");
+    document.getElementById("changeTextColor11_4").style.color = ("#29FF00");
 
 }
 
@@ -1451,7 +1451,7 @@ function answerY11_5(){
  
     document.getElementById("answer11_5").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor01_5").style.color = ("#29FF00");
+    document.getElementById("changeTextColor11_5").style.color = ("#29FF00");
 
 }
 
@@ -1470,7 +1470,7 @@ function answerY11_6(){
  
     document.getElementById("answer11_6").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor01_6").style.color = ("#29FF00");
+    document.getElementById("changeTextColor11_6").style.color = ("#29FF00");
 
 }
 
@@ -1488,7 +1488,7 @@ function answerY11_7(){
  
     document.getElementById("answer11_7").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor01_7").style.color = ("#29FF00");
+    document.getElementById("changeTextColor11_7").style.color = ("#29FF00");
 
 }
 
@@ -1506,7 +1506,7 @@ function answerY11_8(){
  
     document.getElementById("answer11_8").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor01_8").style.color = ("#29FF00");
+    document.getElementById("changeTextColor11_8").style.color = ("#29FF00");
 
 }
 
