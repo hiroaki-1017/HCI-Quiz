@@ -1413,7 +1413,7 @@ function answerY11_3(){
  
     document.getElementById("answer11_3").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor01_3").style.color = ("#29FF00");
+    document.getElementById("changeTextColor11_3").style.color = ("#29FF00");
 
 }
 
