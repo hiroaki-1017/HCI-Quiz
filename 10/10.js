@@ -26,7 +26,7 @@ function answerY01_2(){
 
 }
 
-function answerN01_1(){
+function answerN01_2(){
 
     document.getElementById("answer01_2").innerHTML = '<img src="../img/no.png" alt="不正解">';
 
@@ -638,7 +638,7 @@ function answerY17_2(){
 
 }
 
-function answerN17_1(){
+function answerN17_2(){
 
     document.getElementById("answer17_2").innerHTML = '<img src="../img/no.png" alt="不正解">';
 
