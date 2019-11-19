@@ -144,6 +144,39 @@ function answerN01_8(){
 
 }
 
+//01-9
+function answerY01_9(){
+ 
+    document.getElementById("answer01_9").innerHTML = '<img src="../img/yes.png" alt="正解">';
+
+    document.getElementById("changeTextColor01_9").style.color = ("#29FF00");
+
+}
+
+function answerN01_9(){
+
+    document.getElementById("answer01_9").innerHTML = '<img src="../img/no.png" alt="不正解">';
+
+    document.getElementById("changeTextColor01_9").style.color = ("#29FF00");
+
+}
+
+//01-10
+function answerY01_10(){
+ 
+    document.getElementById("answer01_10").innerHTML = '<img src="../img/yes.png" alt="正解">';
+
+    document.getElementById("changeTextColor01_10").style.color = ("#29FF00");
+
+}
+
+function answerN01_10(){
+
+    document.getElementById("answer01_10").innerHTML = '<img src="../img/no.png" alt="不正解">';
+
+    document.getElementById("changeTextColor01_10").style.color = ("#29FF00");
+
+}
 
 
 
@@ -1422,6 +1455,25 @@ function answerY11_5(){
 
 }
 
+function answerN11_5(){
+
+    document.getElementById("answer11_5").innerHTML = '<img src="../img/no.png" alt="不正解">';
+
+    document.getElementById("changeTextColor11_5").style.color = ("#29FF00");
+
+}
+
+
+
+//11-6
+function answerY11_6(){
+ 
+    document.getElementById("answer11_6").innerHTML = '<img src="../img/yes.png" alt="正解">';
+
+    document.getElementById("changeTextColor01_6").style.color = ("#29FF00");
+
+}
+
 function answerN11_6(){
 
     document.getElementById("answer11_6").innerHTML = '<img src="../img/no.png" alt="不正解">';
@@ -1431,8 +1483,7 @@ function answerN11_6(){
 }
 
 
-
-//11-1
+//11-7
 function answerY11_7(){
  
     document.getElementById("answer11_7").innerHTML = '<img src="../img/yes.png" alt="正解">';
@@ -1448,7 +1499,6 @@ function answerN11_7(){
     document.getElementById("changeTextColor11_7").style.color = ("#29FF00");
 
 }
-
 
 
 //11-8
