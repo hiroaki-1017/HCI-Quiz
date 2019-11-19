@@ -945,7 +945,7 @@ function answerN07_9(){
 
 
 //07-10
-function answerY07_1(){
+function answerY07_10(){
  
     document.getElementById("answer07_10").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
@@ -964,7 +964,7 @@ function answerN07_10(){
 
 
 //07-11
-function answerY07_1(){
+function answerY07_11(){
  
     document.getElementById("answer07_11").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
