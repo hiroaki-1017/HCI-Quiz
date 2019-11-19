@@ -2166,20 +2166,20 @@ function answerN18_2(){
 
 
 
-//18-1
-function answerY18_1(){
+//18-3
+function answerY18_3(){
  
-    document.getElementById("answer18_1").innerHTML = '<img src="../img/yes.png" alt="正解">';
+    document.getElementById("answer18_3").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor18_1").style.color = ("#29FF00");
+    document.getElementById("changeTextColor18_3").style.color = ("#29FF00");
 
 }
 
-function answerN18_1(){
+function answerN18_3(){
 
-    document.getElementById("answer18_1").innerHTML = '<img src="../img/no.png" alt="不正解">';
+    document.getElementById("answer18_3").innerHTML = '<img src="../img/no.png" alt="不正解">';
 
-    document.getElementById("changeTextColor18_1").style.color = ("#29FF00");
+    document.getElementById("changeTextColor18_3").style.color = ("#29FF00");
 
 }
 
@@ -2204,20 +2204,20 @@ function answerN19_1(){
 
 
 
-//19-1
-function answerY19_1(){
+//19-2
+function answerY19_2(){
  
-    document.getElementById("answer19_1").innerHTML = '<img src="../img/yes.png" alt="正解">';
+    document.getElementById("answer19_2").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor19_1").style.color = ("#29FF00");
+    document.getElementById("changeTextColor19_2").style.color = ("#29FF00");
 
 }
 
-function answerN19_1(){
+function answerN19_2(){
 
-    document.getElementById("answer19_1").innerHTML = '<img src="../img/no.png" alt="不正解">';
+    document.getElementById("answer19_2").innerHTML = '<img src="../img/no.png" alt="不正解">';
 
-    document.getElementById("changeTextColor19_1").style.color = ("#29FF00");
+    document.getElementById("changeTextColor19_2").style.color = ("#29FF00");
 
 }
 
@@ -2242,20 +2242,20 @@ function answerN20_1(){
 
 
 
-//20-1
-function answerY20_1(){
+//20-2
+function answerY20_2(){
  
-    document.getElementById("answer20_1").innerHTML = '<img src="../img/yes.png" alt="正解">';
+    document.getElementById("answer20_2").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor20_1").style.color = ("#29FF00");
+    document.getElementById("changeTextColor20_2").style.color = ("#29FF00");
 
 }
 
-function answerN20_1(){
+function answerN20_2(){
 
-    document.getElementById("answer20_1").innerHTML = '<img src="../img/no.png" alt="不正解">';
+    document.getElementById("answer20_2").innerHTML = '<img src="../img/no.png" alt="不正解">';
 
-    document.getElementById("changeTextColor20_1").style.color = ("#29FF00");
+    document.getElementById("changeTextColor20_2").style.color = ("#29FF00");
 
 }
 
@@ -2280,79 +2280,76 @@ function answerN21_1(){
 
 
 
-//21-1
-function answerY21_1(){
+//21-2
+function answerY21_2(){
  
-    document.getElementById("answer21_1").innerHTML = '<img src="../img/yes.png" alt="正解">';
+    document.getElementById("answer21_2").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor21_1").style.color = ("#29FF00");
-
-}
-
-function answerN21_1(){
-
-    document.getElementById("answer21_1").innerHTML = '<img src="../img/no.png" alt="不正解">';
-
-    document.getElementById("changeTextColor21_1").style.color = ("#29FF00");
+    document.getElementById("changeTextColor21_2").style.color = ("#29FF00");
 
 }
 
+function answerN21_2(){
+
+    document.getElementById("answer21_2").innerHTML = '<img src="../img/no.png" alt="不正解">';
+
+    document.getElementById("changeTextColor21_2").style.color = ("#29FF00");
+
+}
 
 
-//21-1
-function answerY21_1(){
+
+//21-3
+function answerY21_3(){
  
-    document.getElementById("answer21_1").innerHTML = '<img src="../img/yes.png" alt="正解">';
+    document.getElementById("answer21_3").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor21_1").style.color = ("#29FF00");
-
-}
-
-function answerN21_1(){
-
-    document.getElementById("answer21_1").innerHTML = '<img src="../img/no.png" alt="不正解">';
-
-    document.getElementById("changeTextColor21_1").style.color = ("#29FF00");
+    document.getElementById("changeTextColor21_3").style.color = ("#29FF00");
 
 }
 
+function answerN21_3(){
+
+    document.getElementById("answer21_3").innerHTML = '<img src="../img/no.png" alt="不正解">';
+
+    document.getElementById("changeTextColor21_3").style.color = ("#29FF00");
+
+}
 
 
-//21-1
-function answerY21_1(){
+
+//21-4
+function answerY21_4(){
  
-    document.getElementById("answer21_1").innerHTML = '<img src="../img/yes.png" alt="正解">';
+    document.getElementById("answer21_4").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor21_1").style.color = ("#29FF00");
-
-}
-
-function answerN21_1(){
-
-    document.getElementById("answer21_1").innerHTML = '<img src="../img/no.png" alt="不正解">';
-
-    document.getElementById("changeTextColor21_1").style.color = ("#29FF00");
+    document.getElementById("changeTextColor21_4").style.color = ("#29FF00");
 
 }
 
+function answerN21_4(){
+
+    document.getElementById("answer21_4").innerHTML = '<img src="../img/no.png" alt="不正解">';
+
+    document.getElementById("changeTextColor21_4").style.color = ("#29FF00");
+
+}
 
 
-//21-1
-function answerY21_1(){
+
+//21-5
+function answerY21_5(){
  
-    document.getElementById("answer21_1").innerHTML = '<img src="../img/yes.png" alt="正解">';
+    document.getElementById("answer21_5").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
-    document.getElementById("changeTextColor21_1").style.color = ("#29FF00");
-
-}
-
-function answerN21_1(){
-
-    document.getElementById("answer21_1").innerHTML = '<img src="../img/no.png" alt="不正解">';
-
-    document.getElementById("changeTextColor21_1").style.color = ("#29FF00");
+    document.getElementById("changeTextColor21_5").style.color = ("#29FF00");
 
 }
 
+function answerN21_5(){
 
+    document.getElementById("answer21_5").innerHTML = '<img src="../img/no.png" alt="不正解">';
 
+    document.getElementById("changeTextColor21_5").style.color = ("#29FF00");
+
+}
