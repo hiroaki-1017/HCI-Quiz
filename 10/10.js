@@ -776,7 +776,7 @@ function answerN06_3(){
 //07-1
 function answerY07_1(){
  
-    document.getElementById("answer07_1").innerHTML = '<img src="../img/yes.png" alt="正解">';
+    document.getElementById("answer07_1").innerHTML = '<img src="../img/yes.png" alt="正解">'; // ここがなんか動いてないっぽい
 
     document.getElementById("changeTextColor07_1").style.color = ("#29FF00");
 
@@ -945,7 +945,7 @@ function answerN07_9(){
 
 
 //07-10
-function answerY07_1(){
+function answerY07_10(){
  
     document.getElementById("answer07_10").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
@@ -964,7 +964,7 @@ function answerN07_10(){
 
 
 //07-11
-function answerY07_1(){
+function answerY07_11(){
  
     document.getElementById("answer07_11").innerHTML = '<img src="../img/yes.png" alt="正解">';
 
@@ -1147,7 +1147,7 @@ function answerY09_3(){
 
 }
 
-function answerN09_1(){
+function answerN09_3(){
 
     document.getElementById("answer09_3").innerHTML = '<img src="../img/no.png" alt="不正解">';
 
