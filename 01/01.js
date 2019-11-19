@@ -1632,6 +1632,24 @@ function answerN12_5(){
 }
 
 
+//12-6
+function answerY12_6(){
+ 
+    document.getElementById("answer12_6").innerHTML = '<img src="../img/yes.png" alt="正解">';
+
+    document.getElementById("changeTextColor12_6").style.color = ("#29FF00");
+
+}
+
+function answerN12_6(){
+
+    document.getElementById("answer12_6").innerHTML = '<img src="../img/no.png" alt="不正解">';
+
+    document.getElementById("changeTextColor12_6").style.color = ("#29FF00");
+
+}
+
+
 
 
 
