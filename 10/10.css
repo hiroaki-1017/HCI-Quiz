@@ -46,7 +46,7 @@ body{
     position: relative;
     padding-top: 22px;
     font-size: 25px;
-    font-family:fantasy;
+    font-family: 'Noto Sans JP', sans-serif;
     color: #707070;
 }
 .title-header{
@@ -104,7 +104,7 @@ main{
 .explanation-text p{
     color: #413838;
     font-size: 25px;
-    font-family:fantasy;
+    font-family: 'Noto Sans JP', sans-serif;
     font-weight: 600;
 }
 .q-answer{
