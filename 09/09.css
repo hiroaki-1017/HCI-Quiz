@@ -1,9 +1,32 @@
+/*コメント  */
+/*選択肢の設定*/
+
+/*imageのサイズ*/
+/*　　　imageは解答した時に日表示される○と×　　　*/
+img{
+    margin: 4px;
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
 body{
     margin: 0;
     text-align: center;
+    
 }
-header{
+/*header*/
+.navbar{
     height:90px;
+    background-color: white;
+    z-index: 10;
+    position: fixed;
 }
 #header-container{
     height: 90px;
@@ -23,16 +46,23 @@ header{
     position: relative;
     padding-top: 22px;
     font-size: 25px;
-    font-family:fantasy;
+    font-family: 'Noto Sans JP', sans-serif;
     color: #707070;
 }
+.title-header{
+    text-align:center;
+}
+
+/*こっからmain*/
 main{
     margin: 0 auto;
+   
 }
 .menu-container{
     height: 530px;
     width: 20%;
-    display: inline-block;
+    z-index: 5;
+   
     
 }
 .menu{
@@ -53,6 +83,7 @@ main{
     height: 50px;
     border: solid 1px;
     border-top: none;
+    width: 100%;
 }
 .box a{
     text-align: center;
@@ -62,18 +93,81 @@ main{
     padding-top: 15px;
 }
 .explanation{
-    display: inline-block;
-    position: relative;
-    top:-250px;
-    left: 170px;
-}
-.explanation-text {
+   
+    width:80%;
+    
 
 }
-.explanation-text p{
-    color: #707070;
-    font-size: 25px;
-    font-family:fantasy;
-    font-weight: 600;
+.explanation-text {
+    border-bottom: solid 1px;
 }
+.explanation-text p{
+    color: #413838;
+    font-size: 25px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.q-answer{
+    display: -webkit-flex;
+    display:flex;
+    border-bottom: solid 1px #707070 ;
+ 
+}
+
+.s01-choice{
+    width: 80%;
+    box-sizing: border-box;
+    padding-top:20px;
+    
+}
+.s01-choice p{
+    font-size: 15px;
+}
+.s01-answer{
+    width: 20%;
+    box-sizing: border-box;
+    padding:10px 0 0 0;
+}
+.con{
+    border-left: solid 1px;
+    border-right: solid 1px;
+    color: #707070;   
+    padding: 0 30px 0 30px;
+    background-color: rgba(020, 020, 020, 0.01);
+}
+.sentence p{
+    font-size: 20px;
+
+}
+.q-sentence01{
+    padding-top:50px;
+    border-bottom: solid 1px #707070 ;
+}
+.answer{
+    padding-top: 30px;
+}
+.question-num01{
+    cursor: pointer;
+    margin-top: 10px;
+    transition: 0.2s;
+
+}
+.question-num01:hover{
+    background-color: rgba(020, 020, 020, 0.05);
+}
+
+
+/*q-answerにborder bottom が適応されていて最後に下線がかぶるからか下線消してあげる*/
+.end-answer{
+    border-bottom:none;
+}
+.question-num01{
+    cursor: pointer;
+    margin-top: 10px;
+    transition: 0.2s;
+
+}
+.question-num01:hover{
+    background-color: rgba(020, 020, 020, 0.05);
+}
+
 
