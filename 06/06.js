@@ -1147,7 +1147,7 @@ function answerY09_3(){
 
 }
 
-function answerN09_1(){
+function answerN09_3(){
 
     document.getElementById("answer09_3").innerHTML = '<img src="../img/no.png" alt="不正解">';
 
